@@ -6,4 +6,5 @@ logs/*
 *.log
 *.pyc
 .vscode/*
+.ipynb_checkpoints/
 Credential.md
